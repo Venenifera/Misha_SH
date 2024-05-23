@@ -1,0 +1,15 @@
+body {
+    font-family: Anime Ace 2.0 BB Bold 700;
+    background-color: lightblue;
+
+}
+header a {
+    border: 4px solid orange;
+    border-radius: 90px;
+    padding:5px;
+}
+ul {
+    font-size: larger;
+}
+
+
